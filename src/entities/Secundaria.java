@@ -34,5 +34,4 @@ public class Secundaria {
 		this.valor2 = valor2;
 	}
 
-	
 }

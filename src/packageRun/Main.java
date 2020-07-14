@@ -9,6 +9,7 @@ public class Main {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 
+		System.out.println("BOM DIA! ");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Primeiro numero a somar: ");
 		int valor1 = sc.nextInt();
