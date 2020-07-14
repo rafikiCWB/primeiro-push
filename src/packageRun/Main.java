@@ -11,6 +11,7 @@ public class Main {
 
 		System.out.println("BOM DIA! ");
 		System.out.println("BOA TARDE! ");
+		System.out.println("BOA NOITE! ");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Primeiro numero a somar: ");
 		int valor1 = sc.nextInt();
